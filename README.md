@@ -50,12 +50,12 @@ Memristors are **inherently nonlinear** and possess memory. This makes them idea
 #### Memristor-Generated Chaotic Attractor
 *(The attractor is the shape traced out by the circuit's voltage and current. Its complex, non-repeating, and unpredictable nature is what makes it a perfect source for generating secure, random-like signals for cryptography.)*
 
-![Memristor chaotic attractor plot](Memristor Simulations/Memristor attractor/Memsistor Attractor.png)
+![Memristor chaotic attractor plot](https://github.com/leslie-swe/Memristor-Chaotic-Oscillator/blob/main/Memristor%20Simulations/Memristor%20attractor/Memsistor%20Attractor.png)
 
 #### Bifurcation Diagram
 *(This diagram plots the system's behavior (labeled "total maximum X" on the Y-axis) as a single control parameter (labeled "w" on the X-axis) is increased from 0 to 10)*
 
-![Memristor bifurcation diagram](Memristor Simulations/Memristor Bifurcation Diagram/Memristor Bifurcation diagram.png)
+![Memristor bifurcation diagram](https://github.com/leslie-swe/Memristor-Chaotic-Oscillator/blob/main/Memristor%20Simulations/Memristor%20Bifurcation%20Diagram/Memristor%20Bifurcation%20diagram.png)
 
 ---
 
